@@ -954,7 +954,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "Results",
-    "body": "<p>&nbsp;</p><p>&nbsp;</p>",
+    "body": "",
     "_id": "6144ff6270b9862e9c9faa15",
     "_parentId": "6144ff5f70b9862e9c9faa14",
     "_type": "component",
@@ -994,5 +994,29 @@
     "_parentId": "6144ff5f70b9862e9c9faa14",
     "_type": "component",
     "_layout": "right"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "To learn more ",
+    "body": "<iframe width=\"727\" height=\"409\" src=\"https://www.youtube.com/embed/z7x1aaZ03xU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+    "_id": "6145f37d67c7f62184228e02",
+    "_parentId": "6145f37767c7f62184228e01",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
   }
 ]

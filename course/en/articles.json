@@ -124,7 +124,7 @@
       "_correctToPass": 60,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
-      "_suppressMarking": false,
+      "_suppressMarking": true,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
       "_scrollToOnReset": false,
