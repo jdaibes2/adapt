@@ -896,6 +896,10 @@ this["Handlebars"]["templates"]["assessmentResults"] = Handlebars.template({"1":
     + "\n  </div>\n\n</div>\n";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["blank"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"component__inner blank__inner\"></div>\n";
+},"useData":true});
+
 this["Handlebars"]["templates"]["matching"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {

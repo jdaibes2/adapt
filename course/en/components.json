@@ -958,7 +958,7 @@
     "_id": "6144ff6270b9862e9c9faa15",
     "_parentId": "6144ff5f70b9862e9c9faa14",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -974,12 +974,12 @@
       "feedback": "",
       "_routeToAssessment": false
     },
-    "_completionBody": "<p><strong><span style=\"background-color:#FF8C00\">Your score is <span style=\"color:#FFFFFF\">{{{score}}} </span>out of <span style=\"color:#FFFFFF\">{{{maxScore}}}</span></span></strong></p>",
+    "_completionBody": "<p><strong><span style=\"background-color:#FF8C00\">&nbsp;Your score is:&nbsp;</span></strong></p><p><strong><span style=\"background-color:#FF8C00\">&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{score}}}&nbsp;&nbsp;</span>out of&nbsp;&nbsp;<span style=\"color:#FFFFFF\">{{{maxScore}}}&nbsp;&nbsp;</span></span></strong></p>",
     "_bands": []
   },
   {
-    "_component": "graphic",
-    "_classes": "photo",
+    "_component": "blank",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -988,23 +988,11 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "New Component Title",
-    "displayTitle": "",
+    "displayTitle": "New Component Title",
     "body": "",
-    "_id": "6145937b7792ee1c183ceca3",
+    "_id": "6145aa24375e430ae8e33a32",
     "_parentId": "6144ff5f70b9862e9c9faa14",
     "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/386417c0fe74d2faaaa19e67ee47f7bd42b4e03b.png",
-      "small": "course/en/assets/386417c0fe74d2faaaa19e67ee47f7bd42b4e03b.png",
-      "attribution": ""
-    }
+    "_layout": "right"
   }
 ]
