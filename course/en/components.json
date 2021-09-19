@@ -230,7 +230,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "1"
+        "strapline": "Click to read text"
       },
       {
         "title": "",
@@ -241,7 +241,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "2"
+        "strapline": "Click to read text"
       },
       {
         "title": "",
@@ -252,7 +252,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "3"
+        "strapline": "Click to read text"
       },
       {
         "title": "",
@@ -263,7 +263,7 @@
           "alt": "",
           "attribution": ""
         },
-        "strapline": "4"
+        "strapline": "Click to read text"
       }
     ]
   },
@@ -525,7 +525,7 @@
     "_disableAccessibilityState": false,
     "title": "Q2",
     "displayTitle": "Q2",
-    "body": "<p><span style=\"color:#FF8C00\"><strong>A fruit rich&nbsp;in Vitamin C!</strong></span></p>",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>A fruit rich&nbsp;in Vitamin C</strong></span></p>",
     "_id": "6138fb713de023276c432690",
     "_parentId": "6138fb673de023276c43268f",
     "_type": "component",
@@ -987,7 +987,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "New Component Title",
-    "displayTitle": "Test",
+    "displayTitle": "Quiz",
     "body": "",
     "_id": "6146ded8220f4b088cb26232",
     "_parentId": "6146ded8220f4b088cb26231",
@@ -1002,7 +1002,7 @@
     "instruction": "",
     "_src": "https://h5p.org/h5p/embed/483963",
     "_initialWidth": 740,
-    "_initialHeight": 350,
+    "_initialHeight": 400,
     "_dimensionDelegateSelector": ""
   }
 ]
