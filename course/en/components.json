@@ -421,54 +421,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "QUIZ",
-    "displayTitle": "QUIZ",
-    "body": "",
-    "_id": "6138f4b73de023276c432688",
-    "_parentId": "612fc79a1129831b04a9bb91",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "<iframe src=\"https://h5p.org/h5p/embed/483963\" width=\"1090\" height=\"339\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"Foods\"></iframe> ",
-    "_id": "6138f57c3de023276c43268a",
-    "_parentId": "6138f5733de023276c432689",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "instruction": ""
-  },
-  {
     "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
@@ -996,7 +948,7 @@
     "_layout": "right"
   },
   {
-    "_component": "text",
+    "_component": "iframe",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1006,10 +958,10 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "New Component Title",
-    "displayTitle": "To learn more ",
-    "body": "<iframe width=\"727\" height=\"409\" src=\"https://www.youtube.com/embed/z7x1aaZ03xU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-    "_id": "6145f37d67c7f62184228e02",
-    "_parentId": "6145f37767c7f62184228e01",
+    "displayTitle": "To learn more",
+    "body": "",
+    "_id": "6146dd8e220f4b088cb2622d",
+    "_parentId": "6146dd89220f4b088cb2622c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1017,6 +969,40 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "instruction": ""
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://www.youtube.com/embed/z7x1aaZ03xU",
+    "_initialWidth": 720,
+    "_initialHeight": 500,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Quiz",
+    "body": "",
+    "_id": "6146ded8220f4b088cb26232",
+    "_parentId": "6146ded8220f4b088cb26231",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://h5p.org/h5p/embed/483963",
+    "_initialWidth": 740,
+    "_initialHeight": 350,
+    "_dimensionDelegateSelector": ""
   }
 ]

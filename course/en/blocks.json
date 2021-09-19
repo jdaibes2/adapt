@@ -257,7 +257,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "612fc79a1129831b04a9bb91",
+    "_id": "6146ded8220f4b088cb26231",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -306,7 +306,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6138f5733de023276c432689",
+    "_id": "6138f5983de023276c43268b",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -355,7 +355,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6138f5983de023276c43268b",
+    "_id": "6138fb673de023276c43268f",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -404,7 +404,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6138fb673de023276c43268f",
+    "_id": "6138fd3d3de023276c43269e",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -453,7 +453,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6138fd3d3de023276c43269e",
+    "_id": "6138feba3de023276c4326a0",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -502,7 +502,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6138feba3de023276c4326a0",
+    "_id": "613cafc3d3e48931b4099319",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -551,7 +551,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "613cafc3d3e48931b4099319",
+    "_id": "6144ff5f70b9862e9c9faa14",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
@@ -600,56 +600,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6144ff5f70b9862e9c9faa14",
-    "_parentId": "612f40bfe963ae172898561f",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 14,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6145f37767c7f62184228e01",
+    "_id": "6146dd89220f4b088cb2622c",
     "_parentId": "612f40bfe963ae172898561f",
     "_type": "block",
     "_assessment": {
